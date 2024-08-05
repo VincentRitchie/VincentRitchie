@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me | Vincent Chimaobi</title>
 </head>
 <body style="background-color: #002B36; color: #000000; font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6;">
     <div style="max-width: 800px; margin: 2rem auto; padding: 1rem; background-color: #003B49; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
