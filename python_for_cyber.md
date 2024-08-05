@@ -1,11 +1,17 @@
-## Projects
-
-### Basic Vulnerability Scanner
-
-[![Basic Vulnerability Scanner](vuln_scanner_image.jpeg)](https://github.com/VincentRitchie/Basic-Vulnerability-Scanner)
-[Simple Vulnerability Scanner](https://github.com/VincentRitchie/Basic-Vulnerability-Scanner)
-
-### Basic Port Scanner
-
-[![Basic Port Scanner](port_scanner_images.png)](https://github.com/VincentRitchie/Basic-Port-Scanner)
-[Simple Port Scanner](https://github.com/VincentRitchie/Basic-Port-Scanner)
+<section id="projects" class="section">
+    <h1>Projects</h1>
+    <h3>Basic Vulnerability Scanner</h3>
+    <div class="project-item">
+        <a href="https://github.com/VincentRitchie/Basic-Vulnerability-Scanner">
+            <img src="vuln_scanner_image.jpeg" alt="Basic Vulnerability Scanner">
+            <p>Simple Vulnerability Scanner</p>
+        </a>
+    </div>
+    <h3>Basic Port Scanner</h3>
+    <div class="project-item">
+        <a href="https://github.com/VincentRitchie/Basic-Port-Scanner">
+            <img src="port_scanner_images.png" alt="Basic Port Scanner">
+            <p>Simple Port Scanner</p>
+        </a>
+    </div>
+</section>
