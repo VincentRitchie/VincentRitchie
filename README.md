@@ -152,7 +152,7 @@
     <section id="PYTHON Projects For Cybersecurity" class="section">
         <h2 style="color: blue">PYTHON PROJECTS FOR CYBERSECURITY.</h2>
         <div class="project-item">
-            <a href="python_for_cyber">
+            <a href="https://github.com/VincentRitchie/VincentRitchie/blob/main/python_for_cyber.md">
                 <img src="python-cybersecurity%20logo.jpg" alt="PYTHON Project For Cybersecurity">
                 <p>Python Projects for Cybersecurity </p>
             </a>
