@@ -21,4 +21,11 @@
             <p>Unique IP Logger</p>
         </a>
     </div>
+     <h2>Random Password Generator  </h2>
+     <div class="project-item">
+        <a href="https://github.com/VincentRitchie/Simple-Password-Generator/blob/main/README.md">
+            <img src="https://github.com/VincentRitchie/Simple-Password-Generator/blob/main/Random-Password-Generator-Using-Python.jpg" alt="Basic Password Generator" width="650">
+            <p>Random Password Generator</p>
+        </a>
+    </div>
 </section>
