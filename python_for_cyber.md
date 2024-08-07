@@ -7,13 +7,6 @@
             <p>Simple Vulnerability Scanner</p>
         </a>
     </div>
-    <h2>Basic Port Scanner</h2>
-    <div class="project-item">
-        <a href="https://github.com/VincentRitchie/Basic-Port-Scanner">
-            <img src="port_scanner_images.png" alt="Basic Port Scanner" width="650">
-            <p>Simple Port Scanner</p>
-        </a>
-    </div>
     <h2>Unique IP Logger </h2>
      <div class="project-item">
         <a href="https://github.com/VincentRitchie/Basic-Port-Scanner">
@@ -26,6 +19,13 @@
         <a href="https://github.com/VincentRitchie/Simple-Password-Generator/blob/main/README.md">
             <img src="https://github.com/VincentRitchie/Simple-Password-Generator/blob/main/Random-Password-Generator-Using-Python.jpg" alt="Basic Password Generator" width="650">
             <p>Random Password Generator</p>
+        </a>
+    </div>
+    <h2>Caeser Ciphar-Brute Force </h2>
+     <div class="project-item">
+        <a href="https://github.com/VincentRitchie/Python-Caeser-Ciphar-Brute_force">
+            <img src="https://github.com/VincentRitchie/Python-Caeser-Ciphar-Brute_force/blob/main/Brute_force%20Caesar%20img.jpeg" alt="Basic Password Generator" width="650">
+            <p>Caeser Ciphar-Brute Force</p>
         </a>
     </div>
 </section>
