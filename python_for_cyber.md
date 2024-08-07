@@ -20,5 +20,5 @@
             <img src="https://github.com/VincentRitchie/Unique-IP-logger/blob/main/unique_ip_logger%20img.jpg" alt="Basic Port Scanner" width="650">
             <p>Unique IP Logger</p>
         </a>
-    </div>">
+    </div>
 </section>
