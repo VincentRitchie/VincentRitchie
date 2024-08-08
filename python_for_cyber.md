@@ -28,4 +28,11 @@
             <p>Caeser Ciphar-Brute Force</p>
         </a>
     </div>
+     <h2>Vulnerability Manager </h2>
+     <div class="project-item">
+        <a href="https://github.com/VincentRitchie/Vulnerability-Manager">
+            <img src="https://github.com/VincentRitchie/Vulnerability-Manager/blob/main/vuln-management.webp" width="650">
+            <p>Vulnerability Manager</p>
+        </a>
+    </div>
 </section>
