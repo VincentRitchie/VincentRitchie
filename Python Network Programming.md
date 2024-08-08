@@ -3,7 +3,7 @@
 <h2>Basic Port Scanner</h2>
     <div class="project-item">
         <a href="https://github.com/VincentRitchie/Basic-Port-Scanner">
-            <img src="simple_portscanner.py" alt="Basic Port Scanner" width="650">
+            <img src="https://github.com/VincentRitchie/Basic-Port-Scanner/blob/main/portscannerpython.png" alt="Basic Port Scanner" width="650">
             <p>Simple Port Scanner</p>
         </a>
     </div>
