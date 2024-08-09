@@ -77,10 +77,10 @@
         <h2>Contact</h2>
         <p><i>Connect with me on</i></p>
         <div class="contact-item" style="background: #181717;">
-            <a href="https://github.com/VincentRitchie/CyberGhoxt">GitHub</a>
+            <a href="https://github.com/VincentRitchie/VincentRitchie">GitHub</a>
         </div>
         <div class="contact-item" style="background: #0077B5;">
-            <a href="https://www.linkedin.com/in/VincentRitchie/">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/vincent-chimaobi-53b458216?trk=contact-info">LinkedIn</a>
         </div>
         <div class="contact-item" style="background: #000000;">
             <a href="https://x.com/vin_chimaobi042">X</a>
