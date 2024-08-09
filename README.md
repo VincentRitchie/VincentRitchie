@@ -77,7 +77,8 @@
         <h2>AUTOMATED BORING STUFF WITH PYTHON </h2>
         <div class="project-item">
             <a href="https://github.com/VincentRitchie/VincentRitchie/blob/main/Automated_Boring_Stuff.md">
-                <img src="" alt="AUTOMATED BORING STUFF WITH PYTHON " width= "720">
+                <img src="https://github.com/VincentRitchie/VincentRitchie/blob/main/automate-the-boring-stuff-with-python.png" 
+                    alt="AUTOMATED BORING STUFF WITH PYTHON " width= "720">
                 <p>Automated Boring Stuff with Python</p>
             </a>
         </div>
