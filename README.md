@@ -76,7 +76,7 @@
     <section id="AUTOMATED BORING STUFF WITH PYTHON" class="section">
         <h2>AUTOMATED BORING STUFF WITH PYTHON </h2>
         <div class="project-item">
-            <a href="#">
+            <a href="https://github.com/VincentRitchie/VincentRitchie/blob/main/Automated_Boring_Stuff.md">
                 <img src="" alt="AUTOMATED BORING STUFF WITH PYTHON " width= "720">
                 <p>Automated Boring Stuff with Python</p>
             </a>
