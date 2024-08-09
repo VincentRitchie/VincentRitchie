@@ -4,7 +4,7 @@
     <div class="project-item">
         <a href="https://github.com/VincentRitchie/Year-Month-Calculator/blob/main/README.md">
             <img src="https://github.com/VincentRitchie/Year-Month-Calculator/blob/main/Year-month%20calculator%20img.jpg" 
-                alt="Year-Month-Calculator" with="650">
+                alt="Year-Month-Calculator" width="650">
             <p>Year-Month-Calculator</p>
         </a>
     </div>
@@ -12,7 +12,7 @@
     <div class="project-item">
         <a href="https://github.com/VincentRitchie/SIMPLE-APPS/blob/main/README.md">
             <img src="https://github.com/VincentRitchie/SIMPLE-APPS/blob/main/Simple%20To%20Do%20List%20in%20Python.jpeg" 
-                alt="Simple ToDo List App" with="650">
+                alt="Simple ToDo List App" width="650">
             <p>Simple ToDo List App</p>
         </a>
     </div>
