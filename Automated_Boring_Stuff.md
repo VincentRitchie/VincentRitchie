@@ -4,7 +4,7 @@
     <div class="project-item">
         <a href="https://github.com/VincentRitchie/Year-Month-Calculator/blob/main/README.md">
             <img src="https://github.com/VincentRitchie/Year-Month-Calculator/blob/main/Year-month%20calculator%20img.jpg" 
-                alt="Year-Month-Calculator">
+                alt="Year-Month-Calculator" with="650">
             <p>Year-Month-Calculator</p>
         </a>
     </div>
