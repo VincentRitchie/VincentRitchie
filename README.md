@@ -73,6 +73,15 @@
             </a>
         </div>
     </section>
+    <section id="AUTOMATED BORING STUFF WITH PYTHON" class="section">
+        <h2>AUTOMATED BORING STUFF WITH PYTHON </h2>
+        <div class="project-item">
+            <a href="#">
+                <img src="" alt="AUTOMATED BORING STUFF WITH PYTHON " width= "720">
+                <p>Automated Boring Stuff with Python</p>
+            </a>
+        </div>
+    </section>
     <section id="contact" class="section">
         <h2>Contact</h2>
         <p><i>Connect with me on</i></p>
