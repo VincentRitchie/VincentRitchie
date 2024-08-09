@@ -8,5 +8,12 @@
             <p>Year-Month-Calculator</p>
         </a>
     </div>
-    
+     <h2>Simple ToDo List App</h2>
+    <div class="project-item">
+        <a href="https://github.com/VincentRitchie/SIMPLE-APPS/blob/main/README.md">
+            <img src="#" 
+                alt="Simple ToDo List App" with="650">
+            <p>Simple ToDo List App</p>
+        </a>
+    </div>
 </section>
