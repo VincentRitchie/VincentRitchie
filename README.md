@@ -31,7 +31,7 @@
         <h1 style="text-align: center">REAL-WORLD PROJECTS</h1>
         <h2 style="color: #A9A9A9">OVERTHEWIRE - BANDIT CHALLENGES. </h2>
         <div class="project-item">
-            <a href="https://github.com/VincentRitchie/VincentRitchie/blob/main/overthewirebandit.md">
+            <a href="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges">
                 <img src="OverTheWire%20Bandit%20logo.jpg" alt="Over The Wire - Bandit Challenges" width= "720">
                 <p>OTW - Bandit Challenges</p>
             </a>
