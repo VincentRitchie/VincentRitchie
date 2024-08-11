@@ -1,5 +1,5 @@
 <section id="projects" class="section">
-    <h1>OTW - Projects</h1>
+    <h1>OTW - Bandit WarGames</h1>
     <div class="project-item">
         <a href="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10">
             <img src="https://github.com/VincentRitchie/VincentRitchie/blob/main/OTW-Bandit%20Level%200.jpeg" 
