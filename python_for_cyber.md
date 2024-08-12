@@ -35,4 +35,11 @@
             <p>Vulnerability Manager</p>
         </a>
     </div>
+     <h2>Pentesting Tools Class Hierarchy</h2>
+     <div class="project-item">
+        <a href="https://github.com/VincentRitchie/Pentesting-Tools-Class-Hierarchy/blob/main/README.md">
+            <img src="https://github.com/VincentRitchie/Pentesting-Tools-Class-Hierarchy/blob/main/pentesting_hierarchy%20images.jpeg" width="500">
+            <p>Pentesting Tools Class Hierarchy</p>
+        </a>
+    </div>
 </section>
