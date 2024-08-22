@@ -58,9 +58,9 @@
     <section id="PYTHON ETHICAL SCRIPTING" class="section">
         <h2>PYTHON ETHICAL SCRIPTING. </h2>
         <div class="project-item">
-            <a href="#">
+            <a href="https://github.com/VincentRitchie/VincentRitchie/blob/main/Ethical_Scripting.md">
                 <img src="python-ethical-scripting.webp" alt="PYTHON ETHICAL HACKING" width= "720">
-                <p>Python Ethical Scripting</p>
+                <p>Ethical Scripting</p>
             </a>
         </div>
     </section>
