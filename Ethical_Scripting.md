@@ -7,9 +7,9 @@
         </a>
     </div>
     <div class="project-item">
-        <a href="#">
-            <img src="#" alt="#" width="520">
-            <p>Project 2</p>
+        <a href="https://github.com/VincentRitchie/Webpage-Content-Fetcher/blob/main/README.md">
+            <img src="https://github.com/VincentRitchie/Webpage-Content-Fetcher/blob/main/fetch%20webpage%20contents.webp" alt="Webpage Content Fetcher" width="520">
+            <p>Webpage Content Fetcher</p>
         </a>
     </div>
     <div class="project-item">
